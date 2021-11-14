@@ -21,5 +21,5 @@ This repository contains images, videos, software, websites and other things tha
 
 ## Cool Things I Found on the Internet
 
-- [The Universe is Hostile to Computers (Youtube - Veritasium)](https://www.youtube.com/watch?v=cUzklzVXJwo)
+- [The Universe is Hostile to Computers (Youtube - Veritasium)](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
 
