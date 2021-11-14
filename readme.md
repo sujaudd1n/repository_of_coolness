@@ -9,7 +9,7 @@ This repository contains images, videos, software, websites and other things tha
 
 # Contents 
 
-- [Watch Artists Performing Arts](#wapa)
+- [Watch Artists Performing Arts](#watch-artists-performing-arts)
 - [Cool things I found on the internet](#ctifoti)
  
 ***
