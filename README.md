@@ -36,3 +36,7 @@ not limited to computer science, mathematics, science, sports etc.
 
 - [The Universe is Hostile to Computers (Youtube - Veritasium)](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
 
+## License
+
+This work in licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+![](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
