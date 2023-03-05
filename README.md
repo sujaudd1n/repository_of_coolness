@@ -1,9 +1,9 @@
-
 # What is this repository?
 
-This repository contains images, videos, software, websites and other things 
-that are really cool, awesome and interesting. The subjects are including but
-not limited to computer science, mathematics, science, sports etc.
+This repository contains images, videos, software, websites and other
+things that are really cool, awesome and interesting. The subjects are
+including but not limited to computer science, mathematics, science,
+sports etc.
 
 **Warning**: Some contents contain music and extreme sports.
 
@@ -22,6 +22,7 @@ not limited to computer science, mathematics, science, sports etc.
 ### Video
 
 - [Elements of Programming Style - Brian Kernighan](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
+- [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 
 ## Sports
 
@@ -39,4 +40,4 @@ not limited to computer science, mathematics, science, sports etc.
 ## License
 
 This work in licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-![](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+![license image(cc by nc sa)](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
