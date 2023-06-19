@@ -23,6 +23,7 @@ sports etc.
 
 - [Elements of Programming Style - Brian Kernighan](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
+- [Uncle Bob The Future of Programming (Kuppelsalen, Copenhagen)](https://www.youtube.com/watch?v=9Xy3QC7yxJw)
 
 ## Sports
 
